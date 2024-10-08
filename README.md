@@ -1,6 +1,4 @@
 # Ecommerce-Sales-Analysis
-
-# Ecommerce-Sales-Analysis
 ![Dashboard Overview](https://github.com/KCMcafe15/Ecommerce-Sales-Analysis/blob/1cb69dab45fc63999453c2c52240db3da777a421/img/ecom.JPG)
 
 ## About the project
